@@ -11,7 +11,7 @@ public class day_4 {
     public static void main(String[] args) {
         int n;
         int fact;
-        fact = factorial(0);
+        fact = factorial(5);
         System.out.println(fact);
     }
 
