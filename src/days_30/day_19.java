@@ -20,7 +20,6 @@ public class day_19 {
     }
     public static void main(String[] args) {
         String str = "aibohphobia";
-        int index = nonRepeating(str);
         System.out.println(nonRepeating(str));
     }
 }
