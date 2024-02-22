@@ -17,7 +17,7 @@ public class day_22 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        System.out.print(n1+" "+n2);//printing 0 and 1
-        Fibonacci(n-2);//n-2 because 2 numbers are already printed
+        System.out.print(n1+" "+n2);
+        Fibonacci(n-2);
     }
 }
